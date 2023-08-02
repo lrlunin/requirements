@@ -1,0 +1,1 @@
+CAENFastPS @ git+https://github.com/MBI-Div-B/pytango-CAENFastPS
